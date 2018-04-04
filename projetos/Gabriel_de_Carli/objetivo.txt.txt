@@ -1,1 +1,3 @@
-Teste em classes de conexão entre linguagens de programação e o NoSQL.
+JMeter -  Teste de Desempenho nas classes de conexão do java com o NOSQL para diferentes SGBDS
+
+Utilizar uma classe de conexão para realizar testes de desempenhos de uma determinada linguagem (ainda não definida, porém existem grandes chances de ser em java) para com diferentes SGBD´s de NoSQL;
